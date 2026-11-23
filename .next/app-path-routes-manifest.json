@@ -1,0 +1,23 @@
+{
+  "/api/auth/route": "/api/auth",
+  "/api/content/route": "/api/content",
+  "/api/inquiries/route": "/api/inquiries",
+  "/_not-found/page": "/_not-found",
+  "/about/page": "/about",
+  "/academia/page": "/academia",
+  "/admin/login/page": "/admin/login",
+  "/admin/cms/page": "/admin/cms",
+  "/admin/page": "/admin",
+  "/cinema/page": "/cinema",
+  "/contact/page": "/contact",
+  "/journal/[slug]/page": "/journal/[slug]",
+  "/cms/page": "/cms",
+  "/journal/page": "/journal",
+  "/page": "/",
+  "/research/page": "/research",
+  "/research/[slug]/page": "/research/[slug]",
+  "/studio/page": "/studio",
+  "/visual/page": "/visual",
+  "/work/page": "/work",
+  "/work/[slug]/page": "/work/[slug]"
+}
