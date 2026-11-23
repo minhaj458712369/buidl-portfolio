@@ -79,7 +79,7 @@ export default function ContactPage() {
               value={note.message}
               onChange={(e) => setNote({ ...note, message: e.target.value })}
               className="mt-1 w-full border border-line bg-bg-2 px-3 py-3 text-fg outline-none focus:border-accent"
-              placeholder="Tell me about what you are building..."
+              placeholder="Tell me about what you are building...."
             />
           </label>
           <button
