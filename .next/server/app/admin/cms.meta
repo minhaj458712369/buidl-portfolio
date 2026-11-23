@@ -1,7 +1,39 @@
 {
   "headers": {
-    "x-nextjs-stale-time": "4294967294",
+    "x-nextjs-stale-time": "300",
     "x-nextjs-prerender": "1",
     "x-next-cache-tags": "_N_T_/layout,_N_T_/admin/layout,_N_T_/admin/cms/layout,_N_T_/admin/cms/page,_N_T_/admin/cms"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/admin/cms/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 64,
+    "slots": {
+      "children": {
+        "hints": 96,
+        "slots": {
+          "children": {
+            "hints": 96,
+            "slots": {
+              "children": {
+                "hints": 160,
+                "slots": null
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/28686fdbe80813fbf77053ec76e8ca8dd21453ad28399b7d0bc7a5e3250cb38a/$/admin/cms",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/admin/cms/page"
+    },
+    "isFallback": false
   }
 }

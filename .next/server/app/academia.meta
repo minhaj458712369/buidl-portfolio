@@ -1,7 +1,34 @@
 {
   "headers": {
-    "x-nextjs-stale-time": "4294967294",
+    "x-nextjs-stale-time": "300",
     "x-nextjs-prerender": "1",
     "x-next-cache-tags": "_N_T_/layout,_N_T_/academia/layout,_N_T_/academia/page,_N_T_/academia"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/academia/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 64,
+    "slots": {
+      "children": {
+        "hints": 96,
+        "slots": {
+          "children": {
+            "hints": 160,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/ffb58e7f489740585da736d23c1a73b36e62409bf0f073224370c5decbe4aefd/$/academia",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/academia/page"
+    },
+    "isFallback": false
   }
 }

@@ -1,0 +1,30 @@
+1:"$Sreact.fragment"
+2:"static/chunks/app/layout-4643c2bcab1abc15.js"
+3:I[9439,["177","$2"],"AtelierProvider"]
+4:I[7121,[],""]
+5:I[4581,[],""]
+c:"static/chunks/756-0c7f280d518f00be.js"
+d:"static/chunks/app/cinema/page-5bde4a1952a0c05e.js"
+e:I[9401,["756","$c","680","$d"],"Frame"]
+f:I[484,[],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:"ViewportBoundary"
+14:I[484,[],"$13"]
+15:"MetadataBoundary"
+16:I[484,[],"$15"]
+:HL["/_next/static/css/e79e743d974fbf00.css","style"]
+7:X
+a:X
+a:C
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$Le",null,{"children":["$","main",null,{"className":"bg-cinema text-fg min-h-screen","children":[["$","header",null,{"className":"bg-cinema px-5 py-16 text-fg md:py-20 border-b border-fg/20","children":["$","div",null,{"className":"mx-auto max-w-6xl","children":[["$","p",null,{"className":"text-xs tracking-[0.18em] text-fg uppercase font-mono","children":"Film and musical"}],["$","h1",null,{"className":"font-display mt-3 text-5xl leading-[0.95] md:text-7xl","children":"Cinema"}],["$","p",null,{"className":"mt-5 max-w-2xl text-fg text-base","children":"Two shelves. Film holds series such as Faith. Musical is the place for scored or staged pieces."}]]}]}],["$","div",null,{"className":"mx-auto grid max-w-6xl gap-14 px-5 py-12","children":[["$","section",null,{"children":[["$","p",null,{"className":"text-xs tracking-[0.16em] text-fg uppercase font-mono","children":"Film"}],["$","h2",null,{"className":"font-display mt-2 text-3xl","children":"Faith — Episode 1"}],["$","p",null,{"className":"mt-3 max-w-2xl text-fg","children":"First episode of the Faith series. More episodes will follow."}],["$","div",null,{"className":"mt-6 aspect-video w-full overflow-hidden border border-fg/30 bg-black shadow-lg","children":["$","iframe",null,{"className":"h-full w-full","src":"https://www.youtube.com/embed/4fofzvvu4N0?start=12","title":"Faith — Episode 1","allow":"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share","allowFullScreen":true,"loading":"lazy"}]}]]}],["$","section",null,{"className":"border-t border-fg/25 pt-10","children":[["$","p",null,{"className":"text-xs tracking-[0.16em] text-fg uppercase font-mono","children":"Musical"}],["$","h2",null,{"className":"font-display mt-2 text-3xl","children":"Nothing listed yet"}],["$","p",null,{"className":"mt-3 max-w-2xl text-fg","children":"Scored or staged work goes here, separate from the film series. A title and a link can be added in the CMS Studio."}]]}]]}]]}]}],null,["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],"p":"$@12","v":null,"s":"$7"}}]]
+8:[["children",{"s":"cinema","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@9","v":"$a","s":"$7"},"c":"$Qb"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e79e743d974fbf00.css","precedence":"next"}]],["$","html",null,{"lang":"en","className":"__variable_c9ff80 __variable_5b32ba","children":["$","body",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]}]}]]}],"p":"$@6","v":null,"s":"$7"},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$10",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Minhazul Arefin — Portfolio, Research & Visual Work"}],["$","meta","1",{"name":"description","content":"Creative technologist working across digital products, interactive systems, research, and visual storytelling."}]]}]}],null]}],null]}],"p":"$@17","v":null,"s":"$7"}},"a":"$@18","u":"$@19","b":"FANbDI9UyuvFap7Kpm-6S"}
+11:null
+7:300
+19:true
+7:C
+18:0
+9:"$undefined"
+6:"$undefined"
+17:"$undefined"
+12:"$undefined"

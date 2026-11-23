@@ -2,6 +2,8 @@
 import * as entry from '../../../../../src/app/api/inquiries/route.js'
 import type { NextRequest } from 'next/server.js'
 
+import type { InstantConfigForTypeCheckInternal, Prefetch, EnsureStatic } from 'next/dist/build/segment-config/app/app-segment-config.js'
+
 type TEntry = typeof import('../../../../../src/app/api/inquiries/route.js')
 
 type SegmentParams<T extends Object = any> = T extends Record<string, any>
@@ -19,10 +21,16 @@ checkFields<Diff<{
   PATCH?: Function
   config?: {}
   generateStaticParams?: Function
+  
+  instant?: InstantConfigForTypeCheckInternal
+  prefetch?: Prefetch
+  ensureStatic?: EnsureStatic
+  unstable_dynamicStaleTime?: number
   revalidate?: RevalidateRange<TEntry> | false
   dynamic?: 'auto' | 'force-dynamic' | 'error' | 'force-static'
   dynamicParams?: boolean
   fetchCache?: 'auto' | 'force-no-store' | 'only-no-store' | 'default-no-store' | 'default-cache' | 'only-cache' | 'force-cache'
+  /** @deprecated The `preferredRegion` config is deprecated. Remove this export. */
   preferredRegion?: 'auto' | 'global' | 'home' | string | string[]
   runtime?: 'nodejs' | 'experimental-edge' | 'edge'
   maxDuration?: number

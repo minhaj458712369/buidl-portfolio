@@ -1,7 +1,34 @@
 {
   "headers": {
-    "x-nextjs-stale-time": "4294967294",
+    "x-nextjs-stale-time": "300",
     "x-nextjs-prerender": "1",
     "x-next-cache-tags": "_N_T_/layout,_N_T_/cinema/layout,_N_T_/cinema/page,_N_T_/cinema"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/cinema/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 64,
+    "slots": {
+      "children": {
+        "hints": 96,
+        "slots": {
+          "children": {
+            "hints": 160,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/f90baab342d930a84bfdfc1882c5385efbb82f7fff39993f3678e6add56e53d7/$/cinema",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/cinema/page"
+    },
+    "isFallback": false
   }
 }

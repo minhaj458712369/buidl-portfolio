@@ -1,7 +1,34 @@
 {
   "headers": {
-    "x-nextjs-stale-time": "4294967294",
+    "x-nextjs-stale-time": "300",
     "x-nextjs-prerender": "1",
     "x-next-cache-tags": "_N_T_/layout,_N_T_/research/layout,_N_T_/research/page,_N_T_/research"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/research/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 64,
+    "slots": {
+      "children": {
+        "hints": 96,
+        "slots": {
+          "children": {
+            "hints": 160,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/431adfffb9d698f6020e88460d663217b37a689ede36c4e63e459df5253fccb5/$/research",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/research/page"
+    },
+    "isFallback": false
   }
 }
