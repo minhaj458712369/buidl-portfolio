@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Minhazul Arefin",
+      "hasCanvas": false,
+      "bodyTextLen": 1616,
+      "bodyTextHash": "3bfaa1409acedeab55982802af26bca50116c861faa748d4c45e8d47a1f01fc8",
+      "bodyTextPrefix": "MINHAZUL AREFIN Research Work Visual Cinema Articles About CONTA",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Minhazul Arefin",
+      "hasCanvas": false,
+      "bodyTextLen": 1616,
+      "bodyTextHash": "fbe085f8ae5788cd53bd581c54dfa07a3b9d0c6aa3b60744bb9d44f9a1f0e1dc",
+      "bodyTextPrefix": "MINHAZUL AREFIN CONTACT Research Work Visual Cinema Articles Abo",
+      "horizontalOverflow": true,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

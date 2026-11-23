@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Minhazul Arefin",
+      "hasCanvas": false,
+      "bodyTextLen": 1803,
+      "bodyTextHash": "0653017ae96c756926d2c632d92d057c3683570a038dfe54dbff77aaf4f3802c",
+      "bodyTextPrefix": "Minhazul Arefin Research Work Visual Cinema Journal About Contac",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Minhazul Arefin",
+      "hasCanvas": false,
+      "bodyTextLen": 1803,
+      "bodyTextHash": "4df8b8752cb0838ba387b356e36713a6449d269057715422ba43e9a6ebf6b0d9",
+      "bodyTextPrefix": "Minhazul Arefin Contact Research Work Visual Cinema Journal Abou",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
